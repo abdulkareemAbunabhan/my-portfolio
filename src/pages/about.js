@@ -47,18 +47,18 @@ const about = () => {
                 Biography
               </h2>
               <p>
-              Hello, I'm Abdulkareem Abunabhan, a software developer with a unique background in architecture. My journey into the world of software development has been marked by a profound passion for creating digital solutions that are both elegant and functional.
+              Hello, I am Abdulkareem Abunabhan, a software developer with a unique background in architecture. My journey into the world of software development has been marked by a profound passion for creating digital solutions that are both elegant and functional.
               </p>
 
               <p>
-              While my previous career was in architecture, I've transitioned to the world of technology, where I've developed skills in Node.js, React.js, Next.js, Python, Django, and SQL. I approach every project with a fresh perspective, drawing from my architectural roots to design intuitive and user-centered digital experiences.
+              While my previous career was in architecture, I have transitioned to the world of technology, where I have developed skills in Node.js, React.js, Next.js, Python, Django, and SQL. I approach every project with a fresh perspective, drawing from my architectural roots to design intuitive and user-centered digital experiences.
               </p>
 
               <p>
-              I firmly believe that software development is not just about writing code; it's about problem-solving and crafting solutions that provide users with enjoyable and seamless experiences. My commitment to excellence in design and user-centered thinking drives me to continuously seek innovative ways to bring your vision to life.
+              I firmly believe that software development is not just about writing code; it is about problem-solving and crafting solutions that provide users with enjoyable and seamless experiences. My commitment to excellence in design and user-centered thinking drives me to continuously seek innovative ways to bring your vision to life.
               </p>
               <p>
-              I'm excited about the opportunity to collaborate with you on your next project, leveraging my diverse skill set and passion for creating beautiful and functional digital solutions. Let's turn your ideas into reality together!
+              I am excited about the opportunity to collaborate with you on your next project, leveraging my diverse skill set and passion for creating beautiful and functional digital solutions. Let us turn your ideas into reality together!
               </p>
             </div>
             <div className="relative col-span-4 p-8 border-2 border-solid h-max rounded-2xl border-dark bg-light dark:bg-dark dark:border-light">

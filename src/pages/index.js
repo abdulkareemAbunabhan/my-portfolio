@@ -29,7 +29,7 @@ export default function Home() {
             <div className="flex flex-col items-center self-center w-1/2">
               <AnimatedText text="Turning Ideas into Real Solutions by Code and Innovation." className="!text-6xl !text-left"/>
               <p className="my-4 text-base font-medium">
-              As a dedicated full-stack developer, I'm committed to translating your ideas into practical web applications that solve real-world challenges. Explore my latest projects, showcasing my expertise in React.js and problem-solving in web development.
+              As a dedicated full-stack developer, I am committed to translating your ideas into practical web applications that solve real-world challenges. Explore my latest projects, showcasing my expertise in React.js and problem-solving in web development.
               </p>
               <div className="flex items-center self-start mt-2">
                 <Link
