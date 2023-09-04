@@ -1,11 +1,11 @@
-import Layout from "@/components/Layout";
-import AnimatedText from "@/components/AnimatedText";
+import Layout from "../components/Layout";
+import AnimatedText from "../components/AnimatedText";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import profilePic from "../../public/images/profile/profilePic.png";
-import { LinkArrow } from "@/components/Icons";
-import HireMe from "@/components/HireMe";
+import { LinkArrow } from "../components/Icons";
+import HireMe from "../components/HireMe";
 import lightBulb from "../../public/images/svgs/miscellaneous_icons_1.svg"
 export default function Home() {
   return (

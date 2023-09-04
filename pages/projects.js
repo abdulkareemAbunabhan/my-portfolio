@@ -1,10 +1,10 @@
 import React from "react";
 import Head from "next/head";
-import Layout from "@/components/Layout";
+import Layout from "../components/Layout";
 import Image from "next/image";
 import Link from "next/link";
-import AnimatedText from "@/components/AnimatedText";
-import { GithubIcon } from "@/components/Icons";
+import AnimatedText from "../components/AnimatedText";
+import { GithubIcon } from "../components/Icons";
 import {motion} from "framer-motion"
 import project1 from "../../public/images/projects/creativity.png"
 import project2 from "../../public/images/projects/project2.jpg"
