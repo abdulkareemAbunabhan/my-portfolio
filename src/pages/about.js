@@ -43,7 +43,7 @@ const about = () => {
       <main className="flex flex-col items-center justify-center w-full dark:text-light">
         <Layout className="pt-16">
           <AnimatedText text="Determination Drives Achievement!" className="mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8"/>
-          <div className="grid w-full grid-cols-8 gap-16">
+          <div className="grid w-full grid-cols-8 gap-16 sm:gap-8">
             <div className="flex flex-col items-start justify-start col-span-4 sm:gap-8 md:order-2 md:col-span-8">
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
                 Biography
