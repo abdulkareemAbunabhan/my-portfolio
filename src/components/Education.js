@@ -42,7 +42,7 @@ const Education = () => {
             type={"Training in software development"}
             time="January 2023 - August 2023"
             place="Abdul Aziz Al-Ghurair School for Advanced Computing(ASAC)(Code Fellows)"
-            info="Relevant Skills includes Node.js,Python,Django,React.js,Next.js and SQL"
+            info="Relevant skills includes Node.js Python Django React.js Next.js SQL and others"
           />
           <Details
             type={"Bachelor of Architecture"}
